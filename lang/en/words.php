@@ -18,14 +18,14 @@ return [
     'file'  => 'File',
     'logo'  =>'Logo',
     'favicon' =>'Favicon',
-    'facebook'  => 'Facebook',
-    'instagram' => 'Instagram',
-    'phone'  => 'Phone',
-    'email' =>'Email',
-    'translations' => 'Translations',
-    'content' => 'Content',
-    'address'  => 'Address',
-    ''
+    // 'facebook'  => 'Facebook',
+    // 'instagram' => 'Instagram',
+    // 'phone'  => 'Phone',
+    // 'email' =>'Email',
+    // 'translations' => 'Translations',
+    // 'content' => 'Content',
+    // 'address'  => 'Address',
+
 
 
 
