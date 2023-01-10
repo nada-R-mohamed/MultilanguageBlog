@@ -6,19 +6,18 @@
             </li>
 
             <li class="nav-title">
-               مدیریت کاربران
-            </li>
+{{ trans('words.users') }}            </li>
              <li class="nav-item">
-                <a class="nav-link" href="#"><i class="icon-user-follow"></i> ثبت کاربر</a>
-                <a class="nav-link" href="#"><i class="icon-people"></i> لیست کاربران</a>
-                <a class="nav-link" href="#"><i class="icon-user-following"></i> دسترسی کاربران</a>
+                <a class="nav-link" href="{{ route('dashboard.users.create') }}"><i class="icon-user-follow"></i> {{ trans('words.add user') }}</a>
+                <a class="nav-link" href="{{ route('dashboard.users.index') }}"><i class="icon-people"></i> {{ trans('words.users') }}</a>
+
             </li>
 
             <li class="nav-title">
                مدیریت فایل ها
             </li>
              <li class="nav-item">
-                <a class="nav-link" href="#"><i class="icon-docs"></i> لیست فایل ها</a>
+                <a class="nav-link" href="#"><i class="icon-docs"></i> {{ trans('words.list file') }}</a>
             </li>
 
             <li class="nav-title">

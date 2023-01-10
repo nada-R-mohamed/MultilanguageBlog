@@ -18,6 +18,7 @@ return [
     'file'  => 'File',
     'logo'  =>'Logo',
     'favicon' =>'Favicon',
+    'users' => 'Users'
     // 'facebook'  => 'Facebook',
     // 'instagram' => 'Instagram',
     // 'phone'  => 'Phone',
